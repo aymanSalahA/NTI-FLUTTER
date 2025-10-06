@@ -2,7 +2,7 @@
 
 A Flutter implementation of the user card UI designed in Figma as part of the Day 4 challenge.
 
-![Figma Design](figma.png)
+![Figma Design](figma.PNG)
 
 ## 📌 About
 
